@@ -1,0 +1,28 @@
+<InfoForest>
+<manuscript>
+  <name lang="en">ChadGospel</name>
+  <path>/InfoForest/content//ChadGospel</path>
+  <media>
+    <mediatype>
+      <type>Low-Res</type>
+      <path>/InfoForest/content//ChadGospel</path>
+    </mediatype>
+    <mediatype>
+      <type>Hi-Res</type>
+      <path>/InfoForest/content//ChadGospel</path>
+    </mediatype>
+    <mediatype>
+      <type>Multispectral</type>
+      <path>/InfoForest/content//ChadGospel</path>
+    </mediatype>
+    <mediatype>
+      <type>3D</type>
+      <path>/InfoForest/content//ChadGospel</path>
+    </mediatype>
+    <mediatype>
+      <type>Extras</type>
+      <path>/InfoForest/content//ChadGospel</path>
+    </mediatype>
+  </media>
+</manuscript>
+</InfoForest>

@@ -1,0 +1,211 @@
+body {
+
+
+	text-align: center;
+	background-color: black;
+	
+	
+	
+	}
+	
+.navb{
+
+	background-image:url('navigation_TOP_divider.png');
+	
+	background-repeat: no-repeat;
+	
+	background-position: right;
+	
+	width:300px;
+	
+	height:70px;
+	
+	font-size:28px;
+	
+	color:black;
+	
+	padding-right:30px;
+	
+	padding-left:30px;
+	
+	font-family:"Georgia";
+	
+	text-align:center;
+	
+	line-height:40px;
+	
+	display:inline;
+
+}
+
+.navb:hover {
+
+	background-color: #CCC;
+
+}
+
+
+a{
+
+	text-decoration:none;
+
+}
+	
+.menubar{
+
+	background-image:url('main_nav_BG.jpg');
+	
+	height:50px;
+
+}
+	
+	
+.bm{
+	
+	background-image: url('button.jpg');
+	width: 300px;
+	font-size: 24px;
+	position: relative;
+	top: 0px;
+	display:inline;
+	
+	}
+	
+	
+.bm:hover {
+
+	background-color: #CCC;
+
+}
+
+
+.home_button{
+
+	height: 50px;
+	width:  50px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	
+	}
+
+	
+.info_button{
+
+	height: 50px;
+	width:  50px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	
+	}
+	
+.text_frame{
+
+	background-color: white;
+	font-size: 22px;
+	text-align: left;
+	height: 700px;
+	width:  700px;
+	position: absolute;
+	top: 150px;
+	left: 600px;
+	
+	}
+	
+.about_chad{
+
+	background-image: url('button.jpg');
+	width: 300px;
+	position: relative;
+	top: 400px;
+	display:inline;
+	
+	}
+	
+	
+.credits{
+
+	background-image: url('button.jpg');
+	width: 300px;
+	position: relative;
+	top: 400px;
+	display:inline;
+	
+	}
+
+.crd{
+
+	font-size:16px;
+	
+	text-align:justify;
+
+}
+
+.about_FoLIO{
+
+	background-image: url('button.jpg');
+	width: 300px;
+	position: relative;
+	top: 400px;
+	display:inline;
+	
+	}
+	
+.main_frame{
+
+	height:100px;
+	width:100px;
+	position:absolute;
+	top: 60px;
+	display:inline;
+
+}
+	
+.frame{
+
+
+	height: 900px;
+	width:  700px;
+	float:right;
+	
+	
+	}
+	
+.frame_2{
+  
+	background-color: white;
+	border: 1px solid black;
+	font-size: 22px;
+	text-align: justify;
+	line-height:1.5em;
+	height: 900px;
+	width:  700px;
+	float:left;
+	overflow-y:auto;
+	
+	
+	}
+	
+.frame_2 p{
+
+	margin: 0px 40px;
+	
+	}
+.table-of-contents_button{
+
+	height: 50px;
+	width:  50px;
+	position: absolute;
+	bottom: 0px;
+	left: 70px;
+	
+	}
+	
+.start{
+
+	vertical-align:bottom;
+	float: right;
+	z-index: 1;
+
+}
